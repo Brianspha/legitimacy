@@ -1,0 +1,7 @@
+
+
+module.exports ={
+    MAX_QUALIFICATIONS:1000,
+    MAX_INSTITUTIONS:500,
+
+}
