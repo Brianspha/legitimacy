@@ -46,6 +46,6 @@ To run the unit tests run `yarn test`
 
 To do
 
-### Demo
+### Demo (V1)
 
 <a href="https://drive.google.com/file/d/1TrdEweGQ9vkMun5Lvtk7xDMzLznXyP5C/view?usp=sharing">Click me</a>
