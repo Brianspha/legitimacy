@@ -14,7 +14,7 @@
   "dependencies": {
     "@metamask/detect-provider": "^2.0.0",
     "@openzeppelin/contracts": "^4.8.2",
-    "@openzeppelin/contracts-upgradeable": "^4.4.2",
+    "@openzeppelin/contracts-upgradeable": "^4.9.1",
     "@rmrk-team/evm-contracts": "^0.26.1",
     "bignumber.js": "^9.1.1",
     "core-js": "^3.6.5",
